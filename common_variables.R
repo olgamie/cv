@@ -2,8 +2,8 @@
 
 # Header with description of what is trying to be accomplished with this CV/Resume
 intro_text <- "I'm a data scientist and tech lead. 
-I'm good at planning work, communicating priorities and results, understanding needs, collaborating and delegating work.
-I love to solve problems that matters."
+I'm good at planning work, communicating priorities and results, understanding needs, collaborating, and delegating work.
+I love to solve problems that matter."
 
 
 # Language skills for skill bars visualization
